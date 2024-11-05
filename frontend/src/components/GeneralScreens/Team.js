@@ -4,12 +4,19 @@ import ma1 from '../../Assets/ma1.jpg'
 import ma2 from '../../Assets/ma2.jpg'
 import ma3 from '../../Assets/ma3.jpg'
 import ma4 from '../../Assets/ma4.jpg'
+import moo from '../../Assets/moo.jpg'
 
 const teamMembers = [
+  
   {
-    name: "Mark Joe",
+    name: "Michael Daniel",
     title: "Chief Marketing Officer",
     image: ma1 // Placeholder image
+  },
+    {
+    name: "Mark Jane",
+    title: "Analytics & Insigths",
+    image: moo // Placeholder image
   },
   {
     name: "Abraham Coleman",
