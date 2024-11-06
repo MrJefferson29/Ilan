@@ -48,6 +48,9 @@ const Header = () => {
                 <NavLink className="link" to="/meet-the-team" activeClassName="active">
                   TEAM
                 </NavLink>
+                <NavLink className="link" to="/summary" activeClassName="active">
+                  INSIGTHS
+                </NavLink>
               </Nav>
             )}
           </Navbar.Collapse>

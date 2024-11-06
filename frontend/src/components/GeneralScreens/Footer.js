@@ -49,6 +49,7 @@ function Footer() {
                 </SocialIcon>
               </SocialIcons>
               <br />
+              <p><b>+19012907231</b></p>
             </FooterSection>
           </Col>
         </Row>
