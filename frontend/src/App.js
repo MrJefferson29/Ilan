@@ -83,7 +83,6 @@ const App = () => {
 
                               </Route>
                               <Route exact path="/login" element={<LoginScreen />} />
-                              <Route exact path="/register" element={<RegisterScreen />} />
 
                               <Route exact path="/forgotpassword" element={<ForgotPasswordScreen />} />
 
